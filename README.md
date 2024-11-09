@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Iftiajul Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Computer Science graduate from BRAC University with expertise in the MERN stack for web development and Python for AI-driven solutions. I specialize in building scalable web applications and innovative machine learning models. Dedicated to creating impactful projects through collaborative and creative problem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
